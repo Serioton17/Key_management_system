@@ -1,7 +1,8 @@
 # Secure Key Management System
 
 ## Overview
-The **Secure Key Management System** (KMS) is designed for cryptographic key handling, ensuring secure key generation, storage, revocation, and authentication. It supports both symmetric (AES) and asymmetric (RSA) encryption and includes functionalities like X.509 certificate management and digital signatures.
+The Secure Key Management System (KMS) ensures secure cryptographic key handling, supporting symmetric and asymmetric encryption. It provides functionalities such as key generation, storage, exchange, revocation, and authentication, enhancing security and integrity in cryptographic operations.
+
 
 ## Features
 - **AES Key Generation**: Securely generate symmetric AES keys.
